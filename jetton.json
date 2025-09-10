@@ -1,0 +1,11 @@
+{
+  "name": "PowertripToken",
+  "symbol": "PTT",
+  "description": "Just a simple jetton for studying and my own purposes",
+  "decimals": 9,
+  "image": "https://myusername.github.io/my-jetton-metadata/token.png",
+  "social": {
+    "website": "",
+    "twitter": ""
+  }
+}
