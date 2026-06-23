@@ -1,0 +1,11 @@
+{
+  "name": "Flaming Sword #1",
+  "description": "Test item minted from the TON game-item minter.",
+  "image": "https://raw.githubusercontent.com/Powertr1p/pt-jetton-metadata/main/1.png",
+  "attributes": [
+    { "trait_type": "Item Type", "value": "Weapon" },
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Attack", "value": "42" },
+    { "trait_type": "Level", "value": "7" }
+  ]
+}
