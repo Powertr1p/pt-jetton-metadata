@@ -1,0 +1,7 @@
+{
+  "name": "MinterNFT Test Items",
+  "description": "Test collection for the TON game-item NFT minter.",
+  "image": "https://raw.githubusercontent.com/Powertr1p/pt-jetton-metadata/main/collection.png",
+  "cover_image": "https://raw.githubusercontent.com/Powertr1p/pt-jetton-metadata/main/collection.png",
+  "social_links": ["https://t.me/yourgame"]
+}
